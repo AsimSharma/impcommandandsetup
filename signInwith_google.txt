@@ -1,0 +1,6 @@
+#SignUpwith Google
+1=> to find keytool
+steps =>
+Add FingerPrint
+SHA-1
+keytool -list -v  -alias androiddebugkey -keystore C:\Users\ASUS\.android\debug.keystore
